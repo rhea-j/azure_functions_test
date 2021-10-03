@@ -1,0 +1,8 @@
+# DO NOT include azure-functions-worker in this file
+# The Python Worker is managed by Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+azure-functions
+https://manthey.github.io/large_image_wheels/GDAL-3.1.0-cp38-cp38-manylinux2010_x86_64.whl
+requests
+cryptography
